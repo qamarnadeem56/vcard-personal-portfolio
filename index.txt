@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Qamar Nadeem
+Qamar Nadeem
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+qamarnadeem21@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (716) 4162036
 
 Birthday
-June 23, 1982
+May 05
 
 Location
-Sacramento, California, USA
+Seattle, Washington, USA
 
 # navbar
 
